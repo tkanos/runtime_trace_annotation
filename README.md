@@ -1,5 +1,4 @@
-# runtime_task_annotation
-runtime_task_annotation
+# runtime_trace_annotation
 
 This is an example to show how to use trace user annotation (user-defined) , with the package runtime/trace of golang.
 In order to create logs, tasks, ad region in the trace.
