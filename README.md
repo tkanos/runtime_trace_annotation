@@ -7,6 +7,6 @@ You can see a more detailed information here : https://medium.com/@felipedutrati
 
 
 ## Link
-https://medium.com/@felipedutratine/user-defined-runtime-trace-3280db7fe209
-https://golang.org/pkg/runtime/trace
+- https://medium.com/@felipedutratine/user-defined-runtime-trace-3280db7fe209
+- https://golang.org/pkg/runtime/trace
 
